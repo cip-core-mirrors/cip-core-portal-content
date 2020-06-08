@@ -9,9 +9,8 @@ categories: []
 tags: []
 weight: 00
 menu:
-  docs:
+  partners:
     identifier: prtn-ovw-ovw
-    parent: "prtn"
     weight: 10
 slug: ""
 aliases: []

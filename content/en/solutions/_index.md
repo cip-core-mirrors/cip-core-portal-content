@@ -9,9 +9,8 @@ categories: []
 tags: []
 weight: 00
 menu:
-  docs:
+  solutions:
     identifier: so-ovw
-    parent: "so"
     weight: 1
 slug: ""
 aliases: []

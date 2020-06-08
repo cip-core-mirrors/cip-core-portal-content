@@ -7,7 +7,7 @@ publishdate: 2019-12-09T15:00:19+01:00
 lastmod: 2019-12-09T15:00:19+01:00
 categories: []
 menu:
-  docs:
+  products:
     identifier: prb-ab-gs
     parent: "prd-ab"
     weight: 20

@@ -9,7 +9,7 @@ categories: [development]
 tags: []
 weight: 10
 menu:
-  docs:
+  products:
     identifier: prb-tb-gs
     parent: prd-tb
     weight: 20

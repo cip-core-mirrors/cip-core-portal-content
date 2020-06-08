@@ -9,7 +9,7 @@ categories: []
 tags: []
 weight: 00
 menu:
-  docs:
+  partners:
     identifier: prtn-name1-sln1
     parent: "prtn-name1"
     weight: 10

@@ -9,7 +9,7 @@ categories: []
 tags: []
 weight: 00
 menu:
-  docs:
+  solutions:
     identifier: so-da-ovw
     parent: "so-da"
     weight: 10

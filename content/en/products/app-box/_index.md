@@ -9,7 +9,7 @@ categories: []
 tags: []
 weight: 00
 menu:
-  docs: 
+  products: 
     identifier: prb-ab-ovw
     parent: "prd-ab"
     weight: 10

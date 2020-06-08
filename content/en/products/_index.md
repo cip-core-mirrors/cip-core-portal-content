@@ -9,9 +9,8 @@ categories: []
 tags: []
 weight: 00
 menu:
-  docs:
+  products:
     identifier: prd-ovw
-    parent: "prd"
     weight: 10
 slug: ""
 aliases: []

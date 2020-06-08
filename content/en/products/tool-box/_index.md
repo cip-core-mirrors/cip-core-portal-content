@@ -8,7 +8,7 @@ lastmod: 2019-12-09T15:16:35+01:00
 categories: []
 tags: []
 menu:
-  docs:
+  products:
     identifier: prb-tb-ovw
     parent: "prd-tb"
     weight: 10

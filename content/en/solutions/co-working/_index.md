@@ -8,7 +8,7 @@ lastmod: 2019-12-09T15:16:35+01:00
 categories: []
 tags: []
 menu:
-  docs:
+  solutions:
     identifier: so-cw-ovw
     parent: "so-cw"
     weight: 10

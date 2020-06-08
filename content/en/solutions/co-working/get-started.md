@@ -7,7 +7,7 @@ publishdate: 2019-12-09T15:00:19+01:00
 lastmod: 2019-12-09T15:00:19+01:00
 categories: [fundamentals]
 menu:
-  docs:
+  solutions:
     identifier: so-cw-gs
     parent: "so-cw"
     weight: 20
